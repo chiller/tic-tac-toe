@@ -11,3 +11,4 @@ In your terminal run
 ```shell
 python game.py
 ```
+
